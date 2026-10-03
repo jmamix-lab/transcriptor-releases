@@ -34,22 +34,32 @@ Si te la pasaron para probarla, tus resultados ayudan mucho:
 
 1. En la pantalla de inicio, tocá **⚙** (arriba a la derecha) y activá **Modo tester**. Aparece una pestaña 🧪 a la izquierda con la prueba del momento.
 2. Contale a la app para qué la vas a usar: **Trabajo**, **Estudio** o **Personal** (podés marcar más de uno). Te lo pregunta en Inicio y se cambia en ⚙ Ajustes.
-3. Usala como lo harías normalmente y marcá cada prueba con ✅, ⚠️ o ❌. Si algo falla, escribí una nota corta. Si algo falla feo o la app se cierra, mandá también el registro: ⚙ Ajustes → Ayuda → Enviar registro de diagnóstico.
+3. Usala como lo harías normalmente y marcá cada prueba con ✅, ⚠️ o ❌. Si algo falla, escribí una nota corta. Si algo falla feo o la app se cierra, mandá también el registro: ⚙ Ajustes → Ayuda → Enviar el registro de errores.
 4. Tocá **Enviar resultados** y mandalos por mail a la dirección de contacto de abajo.
+
+## Ayuda
+
+En **⚙ Ajustes → Ayuda** están las instrucciones de uso y las preguntas frecuentes, con buscador.
+
+## Tus grabaciones
+
+- En Inicio, el **⋮** de cada grabación permite marcarla como favorita, cambiarle el nombre, compartirla o eliminarla sin abrirla. **Manteniendo apretada** una grabación podés elegir varias y compartirlas juntas en un solo archivo (PDF, texto o Markdown) o eliminarlas.
+- Las favoritas quedan arriba; podés filtrar y ordenar la lista.
+- Lo que eliminás va a la **papelera** (⚙ Ajustes → Papelera) y queda 30 días por si te arrepentís.
 
 ## Copia de seguridad
 
-En **⚙ Ajustes → Copia de seguridad** podés guardar todas tus grabaciones en un archivo protegido con contraseña (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo.
+En **⚙ Ajustes → Copia de seguridad** podés guardar todas tus grabaciones en un archivo protegido con contraseña (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo. Si querés, la contraseña se guarda también en **Contraseñas de Google**, así la tenés en un teléfono nuevo.
 
 ## Privacidad
 
 - La transcripción la hace una **inteligencia artificial que funciona en el teléfono**; el audio y el texto **no se envían a ningún lado**.
 - Sin cuentas, sin publicidad y sin estadísticas.
-- La app guarda en el teléfono un **registro de diagnóstico** (qué hizo y qué falló) para poder arreglar errores. No incluye el texto ni el audio de tus grabaciones y solo sale si lo mandás vos (⚙ Ajustes → Ayuda).
+- La app guarda en el teléfono un **registro de errores** (qué hizo y qué falló) para poder arreglar errores. No incluye el texto ni el audio de tus grabaciones y solo sale si lo mandás vos (⚙ Ajustes → Ayuda).
 - Internet se usa solo para descargar la IA de voz la primera vez y para consultar si hay una versión nueva.
 - Si vas a grabar a otras personas, **avisales y pedí su consentimiento**.
 - Si desinstalás la app se borran las grabaciones del teléfono: antes, guardá una copia de seguridad.
-- La copia de seguridad va **cifrada con una contraseña que elegís vos**: nadie puede abrirla sin ella. Si la olvidás, no hay forma de recuperarla; anotala en un lugar seguro.
+- La copia de seguridad va **cifrada con una contraseña que elegís vos**: nadie puede abrirla sin ella. Si la olvidás, no hay forma de recuperarla: guardala en Contraseñas de Google o anotala en un lugar seguro.
 
 ## Contacto
 
