@@ -39,7 +39,7 @@ Si te la pasaron para probarla, tus resultados ayudan mucho:
 
 ## Copia de seguridad
 
-En **⋮ → Copia de seguridad** podés guardar todas tus grabaciones en un archivo (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo.
+En **⋮ → Copia de seguridad** podés guardar todas tus grabaciones en un archivo protegido con contraseña (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo.
 
 ## Privacidad
 
@@ -48,7 +48,7 @@ En **⋮ → Copia de seguridad** podés guardar todas tus grabaciones en un arc
 - Internet se usa solo para descargar la IA de voz la primera vez y para consultar si hay una versión nueva.
 - Si vas a grabar a otras personas, **avisales y pedí su consentimiento**.
 - Si desinstalás la app se borran las grabaciones del teléfono: antes, guardá una copia de seguridad.
-- La copia de seguridad no tiene contraseña: guardala en un lugar seguro.
+- La copia de seguridad va **cifrada con una contraseña que elegís vos**: nadie puede abrirla sin ella. Si la olvidás, no hay forma de recuperarla; anotala en un lugar seguro.
 
 ## Contacto
 
