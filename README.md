@@ -46,6 +46,7 @@ En **⚙ Ajustes → Ayuda** están las instrucciones de uso y las preguntas fre
 - En Inicio, el **⋮** de cada grabación permite marcarla como favorita, cambiarle el nombre, compartirla o eliminarla sin abrirla. **Manteniendo apretada** una grabación podés elegir varias y compartirlas juntas en un solo archivo (PDF, texto o Markdown) o eliminarlas.
 - Las favoritas quedan arriba; podés filtrar y ordenar la lista.
 - Lo que eliminás va a la **papelera** (⚙ Ajustes → Papelera) y queda 30 días por si te arrepentís.
+- **Notas y adjuntos:** mientras grabás, "Nota" pega un post-it de color entre los párrafos, en ese momento de la reunión, y "Adjuntar" agrega una foto, un video o un documento como miniatura. En una grabación guardada, mantené apretado un párrafo para agregar algo justo ahí. Todo queda en tu teléfono.
 
 ## Copia de seguridad
 
