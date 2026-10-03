@@ -1,6 +1,6 @@
-# Transcriptor · transcripción con IA en tu teléfono (versión de prueba)
+# Transcriptor · tu propia IA, sin internet (versión de prueba)
 
-App para Android que **graba reuniones, clases y notas de voz y las transcribe con inteligencia artificial**. La IA funciona **en el propio teléfono**, sin internet y sin nube: el audio y el texto nunca salen de tu teléfono.
+App para Android que **graba reuniones, clases y notas de voz y las transcribe con su propia inteligencia artificial**, que vive **en tu teléfono**: funciona **sin internet, hasta en modo avión**, y el audio y el texto nunca salen de tu teléfono.
 
 > ⚠️ **Es una versión de prueba.** El nombre "Transcriptor", el logo y el diseño son **provisorios** y van a cambiar en la versión final. Puede tener errores: si encontrás alguno, avisale a quien te pasó la app.
 
