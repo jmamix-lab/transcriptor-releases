@@ -26,20 +26,20 @@ Los textos exactos cambian un poco según la marca del teléfono (Samsung, Motor
 
 ## Actualizar
 
-Cuando hay una versión nueva, la propia app lo avisa en la pantalla de inicio: **"Hay una versión nueva"**. Tocás el aviso, se descarga y se instala **encima de la anterior, sin perder tus grabaciones**. También podés buscarla en **⋮ → Buscar actualizaciones**.
+Cuando hay una versión nueva, la propia app lo avisa en la pantalla de inicio: **"Hay una versión nueva"**. Tocás el aviso, se descarga y se instala **encima de la anterior, sin perder tus grabaciones**. También podés buscarla en **⚙ Ajustes → Buscar actualizaciones**.
 
 ## Probarla y contar cómo te fue
 
 Si te la pasaron para probarla, tus resultados ayudan mucho:
 
-1. En la pantalla de inicio, tocá **⋮ → Modo tester**. Aparece una pestaña 🧪 a la izquierda con la prueba del momento.
-2. En **Qué probar**, marcá arriba para qué la estás usando: **Individual**, **Trabajo** o **Estudio** (podés marcar más de uno).
+1. En la pantalla de inicio, tocá **⚙** (arriba a la derecha) y activá **Modo tester**. Aparece una pestaña 🧪 a la izquierda con la prueba del momento.
+2. Contale a la app para qué la vas a usar: **Trabajo**, **Estudio** o **Personal** (podés marcar más de uno). Te lo pregunta en Inicio y se cambia en ⚙ Ajustes.
 3. Usala como lo harías normalmente y marcá cada prueba con ✅, ⚠️ o ❌. Si algo falla, escribí una nota corta.
 4. Tocá **Enviar resultados** y mandalos por mail a la dirección de contacto de abajo.
 
 ## Copia de seguridad
 
-En **⋮ → Copia de seguridad** podés guardar todas tus grabaciones en un archivo protegido con contraseña (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo.
+En **⚙ Ajustes → Copia de seguridad** podés guardar todas tus grabaciones en un archivo protegido con contraseña (en Descargas, en tu Google Drive o donde quieras) y restaurarlas en este teléfono o en uno nuevo.
 
 ## Privacidad
 
