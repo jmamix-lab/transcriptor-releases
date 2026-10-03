@@ -34,7 +34,7 @@ Si te la pasaron para probarla, tus resultados ayudan mucho:
 
 1. En la pantalla de inicio, tocá **⚙** (arriba a la derecha) y activá **Modo tester**. Aparece una pestaña 🧪 a la izquierda con la prueba del momento.
 2. Contale a la app para qué la vas a usar: **Trabajo**, **Estudio** o **Personal** (podés marcar más de uno). Te lo pregunta en Inicio y se cambia en ⚙ Ajustes.
-3. Usala como lo harías normalmente y marcá cada prueba con ✅, ⚠️ o ❌. Si algo falla, escribí una nota corta.
+3. Usala como lo harías normalmente y marcá cada prueba con ✅, ⚠️ o ❌. Si algo falla, escribí una nota corta. Si algo falla feo o la app se cierra, mandá también el registro: ⚙ Ajustes → Ayuda → Enviar registro de diagnóstico.
 4. Tocá **Enviar resultados** y mandalos por mail a la dirección de contacto de abajo.
 
 ## Copia de seguridad
@@ -45,6 +45,7 @@ En **⚙ Ajustes → Copia de seguridad** podés guardar todas tus grabaciones e
 
 - La transcripción se hace en el teléfono; el audio y el texto **no se envían a ningún lado**.
 - Sin cuentas, sin publicidad y sin estadísticas.
+- La app guarda en el teléfono un **registro de diagnóstico** (qué hizo y qué falló) para poder arreglar errores. No incluye el texto ni el audio de tus grabaciones y solo sale si lo mandás vos (⚙ Ajustes → Ayuda).
 - Internet se usa solo para descargar la IA de voz la primera vez y para consultar si hay una versión nueva.
 - Si vas a grabar a otras personas, **avisales y pedí su consentimiento**.
 - Si desinstalás la app se borran las grabaciones del teléfono: antes, guardá una copia de seguridad.
