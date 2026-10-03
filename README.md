@@ -4,11 +4,9 @@ App para Android que **graba reuniones, clases y notas de voz y las transcribe c
 
 > ⚠️ **Es una versión de prueba.** El nombre "Transcriptor", el logo y el diseño son **provisorios** y van a cambiar en la versión final. Puede tener errores: si encontrás alguno, avisale a quien te pasó la app.
 
-## Descargar
+## Cómo conseguirla
 
-👉 **[Descargar Transcriptor.apk (última versión)](https://github.com/jmamix-lab/transcriptor-releases/releases/latest/download/Transcriptor.apk)**
-
-En la página de versiones (*Releases*) solo hace falta **Transcriptor.apk**. Los archivos *Source code (zip)* y *Source code (tar.gz)* los agrega GitHub automáticamente: no son necesarios y no contienen la app.
+La versión de prueba es **solo para personas invitadas**: el instalador (**Transcriptor.apk**) no se publica acá. Si te invitaron, te lo pasa directamente quien te invitó. Por favor, no lo reenvíes.
 
 **Requisitos:** Android 10 o más nuevo (64 bits) y unos 700 MB libres. La primera vez, la app descarga su inteligencia artificial de voz (unos 670 MB): conviene hacerlo con Wi-Fi.
 
@@ -16,8 +14,8 @@ En la página de versiones (*Releases*) solo hace falta **Transcriptor.apk**. Lo
 
 Como la app todavía no está en Google Play, Android muestra avisos de seguridad. **Es normal** con cualquier app instalada por fuera de la tienda.
 
-1. Tocá el enlace de descarga y esperá a que termine.
-2. Abrí el archivo **Transcriptor.apk** (desde la notificación de descarga o desde la carpeta *Descargas*).
+1. Guardá en el teléfono el archivo **Transcriptor.apk** que te pasaron.
+2. Abrilo (desde la notificación de descarga, la conversación donde te llegó o la carpeta *Descargas*).
 3. Si aparece **"Por tu seguridad, tu teléfono no puede instalar apps desconocidas de esta fuente"**: tocá **Configuración**, activá **Permitir de esta fuente** y volvé atrás.
 4. Si aparece **Google Play Protect** ("App no segura" o "Bloqueada por Play Protect"): tocá **Más detalles** y después **Instalar de todas formas**. Si te ofrece enviar la app para que se analice, podés elegir **No enviar**.
 5. Tocá **Instalar** y, al terminar, **Abrir**.
@@ -26,7 +24,7 @@ Los textos exactos cambian un poco según la marca del teléfono (Samsung, Motor
 
 ## Actualizar
 
-Cuando hay una versión nueva, la propia app lo avisa en la pantalla de inicio: **"Hay una versión nueva"**. Tocás el aviso, se descarga y se instala **encima de la anterior, sin perder tus grabaciones**. También podés buscarla en **⚙ Ajustes → Buscar actualizaciones**.
+Cuando hay una versión nueva, la propia app lo avisa en la pantalla de inicio: **"Hay una versión nueva"** (también podés buscarla en **⚙ Ajustes → Buscar actualizaciones**). El instalador nuevo te lo pasa quien te invitó; se instala **encima de la anterior, sin perder tus grabaciones**.
 
 ## Probarla y contar cómo te fue
 
