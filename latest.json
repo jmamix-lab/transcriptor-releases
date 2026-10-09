@@ -1,1 +1,9 @@
-{"build": 40, "version": "0.1.40"}
+{
+  "build": 41,
+  "version": "0.1.41",
+  "novedades": [
+    "Corregir una palabra: ahora también borra, marca varias y deja escuchar el párrafo sin cerrar",
+    "La actualización se ve y se hace en un solo lugar: Ajustes",
+    "Mis palabras entran en la copia de seguridad, y si la IA de voz se daña se vuelve a bajar sola"
+  ]
+}
