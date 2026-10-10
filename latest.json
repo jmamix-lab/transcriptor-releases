@@ -1,9 +1,9 @@
 {
-  "build": 41,
-  "version": "0.1.41",
+  "build": 42,
+  "version": "0.1.42",
   "novedades": [
-    "Corregir una palabra: ahora también borra, marca varias y deja escuchar el párrafo sin cerrar",
-    "La actualización se ve y se hace en un solo lugar: Ajustes",
-    "Mis palabras entran en la copia de seguridad, y si la IA de voz se daña se vuelve a bajar sola"
+    "Nueva pantalla de inicio: Grabar al centro, pestañas abajo y campanita de avisos",
+    "Lupa dentro de cada grabación y una barra de iconos al tocar un párrafo",
+    "Grabaciones de hasta 12 h que no se cortan: avisa y guarda todo si falta batería o espacio"
   ]
 }
