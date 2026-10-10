@@ -1,9 +1,9 @@
 {
-  "build": 42,
-  "version": "0.1.42",
+  "build": 43,
+  "version": "0.1.43",
   "novedades": [
-    "Nueva pantalla de inicio: Grabar al centro, pestañas abajo y campanita de avisos",
-    "Lupa dentro de cada grabación y una barra de iconos al tocar un párrafo",
-    "Grabaciones de hasta 12 h que no se cortan: avisa y guarda todo si falta batería o espacio"
+    "Mientras hablan, el texto aparece enseguida en gris y después se pule solo",
+    "Si alguien habla sin parar, el párrafo aparece a los 30 segundos, sin esperar más",
+    "Grabando, tocá un párrafo para poner una nota o un adjunto justo ahí"
   ]
 }
