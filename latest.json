@@ -1,9 +1,9 @@
 {
-  "build": 43,
-  "version": "0.1.43",
+  "build": 44,
+  "version": "0.1.44",
   "novedades": [
-    "Mientras hablan, el texto aparece enseguida en gris y después se pule solo",
-    "Si alguien habla sin parar, el párrafo aparece a los 30 segundos, sin esperar más",
-    "Grabando, tocá un párrafo para poner una nota o un adjunto justo ahí"
+    "Seguí usando la app mientras se vuelve a transcribir una grabación larga",
+    "El reproductor tiene velocidad, saltar 15 segundos y saltear silencios",
+    "Compartí el PDF con contraseña y mirá cuántas de tus palabras ya conoce tu IA"
   ]
 }
