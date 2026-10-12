@@ -1,9 +1,9 @@
 {
-  "build": 44,
-  "version": "0.1.44",
+  "build": 46,
+  "version": "0.1.46",
   "novedades": [
-    "Seguí usando la app mientras se vuelve a transcribir una grabación larga",
-    "El reproductor tiene velocidad, saltar 15 segundos y saltear silencios",
-    "Compartí el PDF con contraseña y mirá cuántas de tus palabras ya conoce tu IA"
+    "Pantalla Grabar más simple y pestañas tipo hoja",
+    "Editá dentro del párrafo y corregí palabras por separado",
+    "Juntá grabaciones en series y sumá documentos de contexto"
   ]
 }
