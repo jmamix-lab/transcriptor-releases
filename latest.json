@@ -1,9 +1,9 @@
 {
-  "build": 47,
-  "version": "0.1.47",
+  "build": 48,
+  "version": "0.1.48",
   "novedades": [
-    "Las grabaciones ocupan mucho menos espacio en el teléfono",
-    "Los textos se ordenan en párrafos y avisan que la IA puede equivocarse",
-    "Volver a transcribir sigue donde quedó, con cola, y el teléfono ya no gira la pantalla"
+    "Si te olvidás la grabación andando en silencio, la app avisa y después se pausa sola",
+    "Las grabaciones demasiado cortas no se guardan (quedan en la papelera, con Deshacer)",
+    "Si el texto se atrasa o el teléfono se calienta, la app se cuida y te avisa"
   ]
 }
