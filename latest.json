@@ -1,9 +1,9 @@
 {
-  "build": 49,
-  "version": "0.1.49",
+  "build": 50,
+  "version": "0.1.50",
   "novedades": [
-    "Transcribí audios de WhatsApp y videos de reuniones: compartilos a Transcriptor o elegilos desde Grabar",
-    "La lista de grabaciones abre más rápido y la búsqueda muestra primero lo mejor",
-    "Al compartir ves cuánto pesa el audio, y la copia de seguridad te muestra el espacio libre"
+    "Tocá un párrafo y el reproductor de abajo va a esa palabra; ahora salta de a 5 segundos",
+    "Al editar, el reproductor queda arriba del teclado, y hay Rehacer",
+    "El teclado corrige tus errores al escribir notas, títulos y párrafos (no en Corregir ni en Buscar)"
   ]
 }
