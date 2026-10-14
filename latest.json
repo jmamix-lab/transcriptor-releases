@@ -1,9 +1,9 @@
 {
-  "build": 48,
-  "version": "0.1.48",
+  "build": 49,
+  "version": "0.1.49",
   "novedades": [
-    "Si te olvidás la grabación andando en silencio, la app avisa y después se pausa sola",
-    "Las grabaciones demasiado cortas no se guardan (quedan en la papelera, con Deshacer)",
-    "Si el texto se atrasa o el teléfono se calienta, la app se cuida y te avisa"
+    "Transcribí audios de WhatsApp y videos de reuniones: compartilos a Transcriptor o elegilos desde Grabar",
+    "La lista de grabaciones abre más rápido y la búsqueda muestra primero lo mejor",
+    "Al compartir ves cuánto pesa el audio, y la copia de seguridad te muestra el espacio libre"
   ]
 }
