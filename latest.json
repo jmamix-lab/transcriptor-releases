@@ -1,9 +1,9 @@
 {
-  "build": 52,
-  "version": "0.1.52",
+  "build": 53,
+  "version": "0.1.53",
   "novedades": [
-    "Editar un párrafo: un ✓ para confirmar y marquitas que deshacen cada cambio, de a uno",
-    "El texto se enciende mientras suena; tocar un párrafo te lleva a su principio",
-    "Documentos: el contexto y los archivos adjuntos van por separado, también sin serie"
+    "Lo que suena se marca palabra por palabra; al saltar, solo desde donde seguís escuchando",
+    "Editar: play y pausa solo con el botón de abajo; las marquitas ya no tapan lo que escribís",
+    "Ver cambios más simple: sin leyenda ni play propio"
   ]
 }
