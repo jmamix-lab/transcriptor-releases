@@ -1,9 +1,9 @@
 {
-  "build": 54,
-  "version": "0.1.54",
+  "build": 55,
+  "version": "0.1.55",
   "novedades": [
-    "Editar sin marquitas: al volver a editar ves lo tachado y lo nuevo en verde, en el mismo campo",
-    "Una flecha bajo el ✓ vuelve al original y te deja volver a aplicar tus cambios",
-    "En ⚙ modo tester → Qué probar: buscá una prueba por número o nombre y ocultá las hechas"
+    "El lápiz de un párrafo editado ahora es solo una marca: para ver o deshacer lo editado, abrí Editar texto",
+    "Editar sin marquitas: al volver a editar ves lo tachado y lo nuevo en verde",
+    "Una flecha bajo el ✓ vuelve al original y deja volver a aplicar tus cambios"
   ]
 }
