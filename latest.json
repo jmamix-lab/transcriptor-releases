@@ -1,9 +1,9 @@
 {
-  "build": 51,
-  "version": "0.1.51",
+  "build": 52,
+  "version": "0.1.52",
   "novedades": [
-    "Al tocar un párrafo aparece un ⋯ con sus opciones: editar, corregir, nota, adjuntar y marcar",
-    "El reproductor de abajo es más chico: velocidad con un toque, ±5 s y barra de tiempo",
-    "Si estaba en pausa, tocar otro párrafo solo te lleva ahí; si sonaba, sigue sonando"
+    "Editar un párrafo: un ✓ para confirmar y marquitas que deshacen cada cambio, de a uno",
+    "El texto se enciende mientras suena; tocar un párrafo te lleva a su principio",
+    "Documentos: el contexto y los archivos adjuntos van por separado, también sin serie"
   ]
 }
