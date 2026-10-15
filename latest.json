@@ -1,9 +1,9 @@
 {
-  "build": 53,
-  "version": "0.1.53",
+  "build": 54,
+  "version": "0.1.54",
   "novedades": [
-    "Lo que suena se marca palabra por palabra; al saltar, solo desde donde seguís escuchando",
-    "Editar: play y pausa solo con el botón de abajo; las marquitas ya no tapan lo que escribís",
-    "Ver cambios más simple: sin leyenda ni play propio"
+    "Editar sin marquitas: al volver a editar ves lo tachado y lo nuevo en verde, en el mismo campo",
+    "Una flecha bajo el ✓ vuelve al original y te deja volver a aplicar tus cambios",
+    "En ⚙ modo tester → Qué probar: buscá una prueba por número o nombre y ocultá las hechas"
   ]
 }
