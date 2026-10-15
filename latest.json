@@ -1,9 +1,9 @@
 {
-  "build": 50,
-  "version": "0.1.50",
+  "build": 51,
+  "version": "0.1.51",
   "novedades": [
-    "Tocá un párrafo y el reproductor de abajo va a esa palabra; ahora salta de a 5 segundos",
-    "Al editar, el reproductor queda arriba del teclado, y hay Rehacer",
-    "El teclado corrige tus errores al escribir notas, títulos y párrafos (no en Corregir ni en Buscar)"
+    "Al tocar un párrafo aparece un ⋯ con sus opciones: editar, corregir, nota, adjuntar y marcar",
+    "El reproductor de abajo es más chico: velocidad con un toque, ±5 s y barra de tiempo",
+    "Si estaba en pausa, tocar otro párrafo solo te lleva ahí; si sonaba, sigue sonando"
   ]
 }
