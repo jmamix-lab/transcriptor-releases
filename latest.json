@@ -1,9 +1,9 @@
 {
-  "build": 58,
-  "version": "0.1.58",
+  "build": 59,
+  "version": "0.1.59",
   "novedades": [
-    "Resumen con tu IA, sin internet: lo importante, las decisiones y las tareas, cada punto con su minuto",
-    "Partí o uní párrafos desde el ⋯, y en tablet la lista y la grabación se ven una al lado de la otra",
-    "Fotos más livianas y aviso antes de grabar si queda poco espacio"
+    "La descarga de la IA del resumen sigue aunque salgas de la app, y te avisa cuando un resumen está listo",
+    "El resumen entiende la fecha y quién estuvo, y marca las tareas que conviene revisar",
+    "«Esto lo dijo…» en cada párrafo, y la app puede reconocer voces que ya nombraste"
   ]
 }
