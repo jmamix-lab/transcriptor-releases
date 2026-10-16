@@ -1,9 +1,9 @@
 {
-  "build": 59,
-  "version": "0.1.59",
+  "build": 60,
+  "version": "0.1.60",
   "novedades": [
-    "La descarga de la IA del resumen sigue aunque salgas de la app, y te avisa cuando un resumen está listo",
-    "El resumen entiende la fecha y quién estuvo, y marca las tareas que conviene revisar",
-    "«Esto lo dijo…» en cada párrafo, y la app puede reconocer voces que ya nombraste"
+    "El resumen ordena por tema, suma los riesgos y revisa que los números sean los que se dijeron",
+    "Descargas solo con Wi-Fi (se cambia en Ajustes) y aviso antes de usar datos móviles",
+    "Nuevo en Ajustes: enviar los tiempos de cada función como planilla"
   ]
 }
