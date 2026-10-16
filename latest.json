@@ -1,9 +1,9 @@
 {
-  "build": 57,
-  "version": "0.1.57",
+  "build": 58,
+  "version": "0.1.58",
   "novedades": [
-    "Quién habló: tocá un nombre y elegí «Es la misma persona que…» para unir a alguien que la IA separó de más",
-    "Los párrafos difíciles (en amarillo) también se separan por persona",
-    "Lo que suena se ve más claro: el texto en gris pasa a blanco mientras se escucha"
+    "Resumen con tu IA, sin internet: lo importante, las decisiones y las tareas, cada punto con su minuto",
+    "Partí o uní párrafos desde el ⋯, y en tablet la lista y la grabación se ven una al lado de la otra",
+    "Fotos más livianas y aviso antes de grabar si queda poco espacio"
   ]
 }
