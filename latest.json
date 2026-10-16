@@ -1,9 +1,9 @@
 {
-  "build": 56,
-  "version": "0.1.56",
+  "build": 57,
+  "version": "0.1.57",
   "novedades": [
-    "Nuevo: ⋮ → Quién habló separa las voces, sin internet: cada párrafo queda con su persona",
-    "Tocá «Persona 1» para ponerle su nombre: cambia en toda la grabación y al compartir",
-    "Si sabés cuántas personas hablaron, decíselo: sale mejor"
+    "Quién habló: tocá un nombre y elegí «Es la misma persona que…» para unir a alguien que la IA separó de más",
+    "Los párrafos difíciles (en amarillo) también se separan por persona",
+    "Lo que suena se ve más claro: el texto en gris pasa a blanco mientras se escucha"
   ]
 }
