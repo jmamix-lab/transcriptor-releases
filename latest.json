@@ -1,9 +1,9 @@
 {
-  "build": 62,
-  "version": "0.1.62",
+  "build": 63,
+  "version": "0.1.63",
   "novedades": [
-    "Al pedir un resumen de una reunión de una serie, te ofrece con un toque los pedidos de las anteriores",
-    "Nuevo en cada serie: «Lo que esta serie ya sabe», decisiones, pendientes, personas y siglas que el resumen tiene en cuenta",
-    "Al cambiar el texto de un renglón, una ✕ lo vacía de un toque"
+    "En ⚙ Ajustes, Mis palabras y Personas se abren en una ventana con la lista en orden alfabético",
+    "El aviso «No estás con Wi-Fi» se puede desplazar cuando la letra es grande",
+    "En «Qué probar», las pruebas que la app hace sola aparecen aparte y no hace falta probarlas a mano"
   ]
 }
