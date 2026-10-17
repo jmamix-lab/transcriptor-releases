@@ -1,9 +1,9 @@
 {
-  "build": 60,
-  "version": "0.1.60",
+  "build": 61,
+  "version": "0.1.61",
   "novedades": [
-    "El resumen ordena por tema, suma los riesgos y revisa que los números sean los que se dijeron",
-    "Descargas solo con Wi-Fi (se cambia en Ajustes) y aviso antes de usar datos móviles",
-    "Nuevo en Ajustes: enviar los tiempos de cada función como planilla"
+    "Cada grabación tiene nombre solo (fecha, hora y duración) y el resumen le pone un título corto",
+    "Escuchar la transcripción o el resumen con la voz del teléfono, aunque la pantalla esté apagada",
+    "Nuevo: 👍/👎 en lo que escribe la IA y \"Sugerir o reportar\" en Ajustes"
   ]
 }
