@@ -1,9 +1,9 @@
 {
-  "build": 61,
-  "version": "0.1.61",
+  "build": 62,
+  "version": "0.1.62",
   "novedades": [
-    "Cada grabación tiene nombre solo (fecha, hora y duración) y el resumen le pone un título corto",
-    "Escuchar la transcripción o el resumen con la voz del teléfono, aunque la pantalla esté apagada",
-    "Nuevo: 👍/👎 en lo que escribe la IA y \"Sugerir o reportar\" en Ajustes"
+    "Al pedir un resumen de una reunión de una serie, te ofrece con un toque los pedidos de las anteriores",
+    "Nuevo en cada serie: «Lo que esta serie ya sabe», decisiones, pendientes, personas y siglas que el resumen tiene en cuenta",
+    "Al cambiar el texto de un renglón, una ✕ lo vacía de un toque"
   ]
 }
