@@ -1,9 +1,9 @@
 {
-  "build": 64,
-  "version": "0.1.64",
+  "build": 65,
+  "version": "0.1.65",
   "novedades": [
-    "Nuevo: «Preguntar» en el resumen. Le hacés una pregunta a tu IA sobre la grabación y te responde con el minuto de cada dato",
-    "En cada respuesta podés copiarla, escucharla o agregarla al resumen",
-    "Si la respuesta no está en la grabación, te lo dice en vez de inventar"
+    "Marcar vuelve a funcionar mientras grabás",
+    "Si subís a releer mientras grabás, ya no te lleva al final cuando llega un párrafo nuevo",
+    "«Se oye bajo» te avisa cuando alguien habla lejos y la IA no llega a entender"
   ]
 }
