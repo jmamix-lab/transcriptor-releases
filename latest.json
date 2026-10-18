@@ -1,9 +1,9 @@
 {
-  "build": 63,
-  "version": "0.1.63",
+  "build": 64,
+  "version": "0.1.64",
   "novedades": [
-    "En ⚙ Ajustes, Mis palabras y Personas se abren en una ventana con la lista en orden alfabético",
-    "El aviso «No estás con Wi-Fi» se puede desplazar cuando la letra es grande",
-    "En «Qué probar», las pruebas que la app hace sola aparecen aparte y no hace falta probarlas a mano"
+    "Nuevo: «Preguntar» en el resumen. Le hacés una pregunta a tu IA sobre la grabación y te responde con el minuto de cada dato",
+    "En cada respuesta podés copiarla, escucharla o agregarla al resumen",
+    "Si la respuesta no está en la grabación, te lo dice en vez de inventar"
   ]
 }
