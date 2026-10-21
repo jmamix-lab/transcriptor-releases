@@ -1,9 +1,7 @@
 {
-  "build": 66,
-  "version": "0.1.66",
+  "build": 67,
+  "version": "0.1.67",
   "novedades": [
-    "🎙 Dictá en cualquier cuadro de texto: tocá el micrófono adentro del cuadro",
-    "Separar voces avisa cuánto va a tardar, muestra el avance de verdad y se frena si empezás a grabar",
-    "Separar voces, resumir y volver a transcribir siguen trabajando con el teléfono bloqueado"
+    "Preguntar entiende mejor las reuniones largas: busca en toda la reunión, también al final, y responde más rápido desde la segunda pregunta"
   ]
 }
