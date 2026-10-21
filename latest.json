@@ -1,9 +1,9 @@
 {
-  "build": 65,
-  "version": "0.1.65",
+  "build": 66,
+  "version": "0.1.66",
   "novedades": [
-    "Marcar vuelve a funcionar mientras grabás",
-    "Si subís a releer mientras grabás, ya no te lleva al final cuando llega un párrafo nuevo",
-    "«Se oye bajo» te avisa cuando alguien habla lejos y la IA no llega a entender"
+    "🎙 Dictá en cualquier cuadro de texto: tocá el micrófono adentro del cuadro",
+    "Separar voces avisa cuánto va a tardar, muestra el avance de verdad y se frena si empezás a grabar",
+    "Separar voces, resumir y volver a transcribir siguen trabajando con el teléfono bloqueado"
   ]
 }
