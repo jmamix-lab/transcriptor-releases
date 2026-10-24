@@ -1,7 +1,9 @@
 {
-  "build": 67,
-  "version": "0.1.67",
+  "build": 68,
+  "version": "0.1.68",
   "novedades": [
-    "Preguntar entiende mejor las reuniones largas: busca en toda la reunión, también al final, y responde más rápido desde la segunda pregunta"
+    "Al grabar, la pantalla sigue bien lo último que se dice, aunque alguien hable mucho seguido",
+    "Al tocar un párrafo y darle Reproducir, empieza siempre por su principio",
+    "Arreglado un cierre de la pantalla de grabar en teléfonos chicos con un aviso arriba"
   ]
 }
