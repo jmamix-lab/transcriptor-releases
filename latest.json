@@ -1,9 +1,9 @@
 {
-  "build": 68,
-  "version": "0.1.68",
+  "build": 69,
+  "version": "0.1.69",
   "novedades": [
-    "Al grabar, la pantalla sigue bien lo último que se dice, aunque alguien hable mucho seguido",
-    "Al tocar un párrafo y darle Reproducir, empieza siempre por su principio",
-    "Arreglado un cierre de la pantalla de grabar en teléfonos chicos con un aviso arriba"
+    "En el resumen, los minutos aparecen al mantener apretado un punto; lo que copiás o compartís ya no los lleva",
+    "El resumen ya no repite el mismo punto en varias secciones ni inventa tareas o temas abiertos",
+    "Una sección del resumen sin nada ya no aparece vacía"
   ]
 }
