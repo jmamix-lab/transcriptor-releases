@@ -1,9 +1,9 @@
 {
-  "build": 70,
-  "version": "0.1.70",
+  "build": 71,
+  "version": "0.1.71",
   "novedades": [
-    "Al terminar de grabar, tu IA marca quién habló en cada párrafo sola (en teléfonos rápidos; se apaga en Ajustes)",
-    "Cancelar Quién habló lo frena al instante, y con muchas personas podés elegir «Más de 6»",
-    "Con el teléfono enchufado, el texto en vivo ya no se frena en reuniones largas"
+    "12 plantillas de resumen, una por tipo de charla: la app sugiere la que va y vos la confirmás",
+    "Si al resumen le falta algo (quién hace qué, para cuándo), te lo pregunta en vez de inventarlo",
+    "Tu IA encuentra las tareas, recordatorios, reuniones y correos que se dijeron y los agrega con un toque"
   ]
 }
