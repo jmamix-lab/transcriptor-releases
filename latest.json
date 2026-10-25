@@ -1,9 +1,9 @@
 {
-  "build": 69,
-  "version": "0.1.69",
+  "build": 70,
+  "version": "0.1.70",
   "novedades": [
-    "En el resumen, los minutos aparecen al mantener apretado un punto; lo que copiás o compartís ya no los lleva",
-    "El resumen ya no repite el mismo punto en varias secciones ni inventa tareas o temas abiertos",
-    "Una sección del resumen sin nada ya no aparece vacía"
+    "Al terminar de grabar, tu IA marca quién habló en cada párrafo sola (en teléfonos rápidos; se apaga en Ajustes)",
+    "Cancelar Quién habló lo frena al instante, y con muchas personas podés elegir «Más de 6»",
+    "Con el teléfono enchufado, el texto en vivo ya no se frena en reuniones largas"
   ]
 }
