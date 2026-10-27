@@ -1,9 +1,9 @@
 {
-  "build": 71,
-  "version": "0.1.71",
+  "build": 72,
+  "version": "0.1.72",
   "novedades": [
-    "12 plantillas de resumen, una por tipo de charla: la app sugiere la que va y vos la confirmás",
-    "Si al resumen le falta algo (quién hace qué, para cuándo), te lo pregunta en vez de inventarlo",
-    "Tu IA encuentra las tareas, recordatorios, reuniones y correos que se dijeron y los agrega con un toque"
+    "El resumen ya no muestra etiquetas raras ni repite el mismo punto en varias secciones",
+    "La plantilla se elige por lo que se habla, no por la última que usaste en otra grabación",
+    "Menos tareas y temas inventados: «lo voy a pensar» ya no es tarea y no pregunta lo que ya se dijo"
   ]
 }
