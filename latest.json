@@ -1,9 +1,9 @@
 {
-  "build": 72,
-  "version": "0.1.72",
+  "build": 73,
+  "version": "0.1.73",
   "novedades": [
-    "El resumen ya no muestra etiquetas raras ni repite el mismo punto en varias secciones",
-    "La plantilla se elige por lo que se habla, no por la última que usaste en otra grabación",
-    "Menos tareas y temas inventados: «lo voy a pensar» ya no es tarea y no pregunta lo que ya se dijo"
+    "Las tareas, recordatorios, reuniones y correos que encuentra tu IA por fin aparecen al final del resumen",
+    "El resumen ya no da por hecho lo que solo se preguntó, y las fechas y plazos salen de lo que se dijo",
+    "Quién habló conserva los nombres que pusiste al volver a separar las voces"
   ]
 }
