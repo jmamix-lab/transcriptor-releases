@@ -1,9 +1,9 @@
 {
-  "build": 74,
-  "version": "0.1.74",
+  "build": 75,
+  "version": "0.1.75",
   "novedades": [
-    "El resumen ya no copia el ejemplo de formato ni muestra texto trabado",
-    "En reuniones largas tu IA también encuentra las tareas para que las confirmes",
-    "Una reunión diaria del equipo se resume como «Reunión de equipo»"
+    "El resumen de una reunión larga llega hasta el final y no pega frases sueltas",
+    "Tu IA ya no propone tareas inventadas y las podés copiar",
+    "La transcripción se escucha con su audio original"
   ]
 }
