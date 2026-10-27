@@ -1,9 +1,9 @@
 {
-  "build": 73,
-  "version": "0.1.73",
+  "build": 74,
+  "version": "0.1.74",
   "novedades": [
-    "Las tareas, recordatorios, reuniones y correos que encuentra tu IA por fin aparecen al final del resumen",
-    "El resumen ya no da por hecho lo que solo se preguntó, y las fechas y plazos salen de lo que se dijo",
-    "Quién habló conserva los nombres que pusiste al volver a separar las voces"
+    "El resumen ya no copia el ejemplo de formato ni muestra texto trabado",
+    "En reuniones largas tu IA también encuentra las tareas para que las confirmes",
+    "Una reunión diaria del equipo se resume como «Reunión de equipo»"
   ]
 }
