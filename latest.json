@@ -1,9 +1,9 @@
 {
-  "build": 75,
-  "version": "0.1.75",
+  "build": 76,
+  "version": "0.1.76",
   "novedades": [
-    "El resumen de una reunión larga llega hasta el final y no pega frases sueltas",
-    "Tu IA ya no propone tareas inventadas y las podés copiar",
-    "La transcripción se escucha con su audio original"
+    "Tu IA entiende lo que corregiste al hablar",
+    "Propone las citas con día y hora",
+    "Lee quién se encargó de cada cosa"
   ]
 }
