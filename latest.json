@@ -1,9 +1,9 @@
 {
-  "build": 76,
-  "version": "0.1.76",
+  "build": 77,
+  "version": "0.1.77",
   "novedades": [
-    "Tu IA entiende lo que corregiste al hablar",
-    "Propone las citas con día y hora",
-    "Lee quién se encargó de cada cosa"
+    "En una daily, el resumen arma la ronda de cada persona",
+    "Los números mal escritos se corrigen con lo que se dijo",
+    "Si falta el día de una cita, te lo pregunta en vez de adivinar"
   ]
 }
