@@ -1,9 +1,9 @@
 {
-  "build": 77,
-  "version": "0.1.77",
+  "build": 78,
+  "version": "0.1.78",
   "novedades": [
-    "En una daily, el resumen arma la ronda de cada persona",
-    "Los números mal escritos se corrigen con lo que se dijo",
-    "Si falta el día de una cita, te lo pregunta en vez de adivinar"
+    "En una daily, la ronda no pierde a nadie y cada renglón es corto",
+    "Las tareas vacías o ya hechas no se proponen; al rehacer no vuelven las viejas",
+    "En el modo tester se puede comparar con una IA del resumen más grande"
   ]
 }
