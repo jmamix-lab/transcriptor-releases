@@ -1,9 +1,9 @@
 {
-  "build": 79,
-  "version": "0.1.79",
+  "build": 80,
+  "version": "0.1.80",
   "novedades": [
-    "El resumen ahora lee la grabación una sola vez: primero anota los hechos y después escribe solo con ellos",
-    "Tareas, ronda por persona y acciones salen de la misma lista: menos inventos y más rápido",
-    "Se arreglaron números como «3,800» y las frases cortadas al borde de un bloque («no, perdón»)"
+    "Si te vas de la reunión con el teléfono grabando, te pregunta si terminó; si no contestás, corta y recorta el final",
+    "Al detener, si empezaste a grabar caminando, te ofrece recortar ese principio",
+    "En el modo tester, «Paquete para Claude» manda todo lo de una grabación para revisarla"
   ]
 }
