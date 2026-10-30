@@ -1,9 +1,9 @@
 {
-  "build": 78,
-  "version": "0.1.78",
+  "build": 79,
+  "version": "0.1.79",
   "novedades": [
-    "En una daily, la ronda no pierde a nadie y cada renglón es corto",
-    "Las tareas vacías o ya hechas no se proponen; al rehacer no vuelven las viejas",
-    "En el modo tester se puede comparar con una IA del resumen más grande"
+    "El resumen ahora lee la grabación una sola vez: primero anota los hechos y después escribe solo con ellos",
+    "Tareas, ronda por persona y acciones salen de la misma lista: menos inventos y más rápido",
+    "Se arreglaron números como «3,800» y las frases cortadas al borde de un bloque («no, perdón»)"
   ]
 }
