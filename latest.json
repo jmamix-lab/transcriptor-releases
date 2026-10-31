@@ -1,9 +1,9 @@
 {
-  "build": 80,
-  "version": "0.1.80",
+  "build": 81,
+  "version": "0.1.81",
   "novedades": [
-    "Si te vas de la reunión con el teléfono grabando, te pregunta si terminó; si no contestás, corta y recorta el final",
-    "Al detener, si empezaste a grabar caminando, te ofrece recortar ese principio",
-    "En el modo tester, «Paquete para Claude» manda todo lo de una grabación para revisarla"
+    "Lo que se dijo con música o ruido de fondo ya no se pierde: aparece en amarillo para revisarlo",
+    "Las frases en inglés que la IA de voz inventaba sobre el ruido quedan fuera del texto",
+    "El audio se vuelve a comprimir solo (ocupa unas 8 veces menos) y se comparte siempre en .m4a"
   ]
 }
