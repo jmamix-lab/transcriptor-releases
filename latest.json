@@ -1,9 +1,9 @@
 {
-  "build": 82,
-  "version": "0.1.82",
+  "build": 83,
+  "version": "0.1.83",
   "novedades": [
-    "Un solo aviso al terminar el resumen, con las tareas que encontró tu IA",
-    "Los números dichos en inglés cuentan, y la marca «A revisar» dice qué número está en lo citado",
-    "Una tarea ya no queda a nombre de alguien que no estaba en la reunión: queda para definir"
+    "Atrás y las pestañas vuelven a lo que estabas mirando (Ajustes se abre encima)",
+    "Lo que escribís en una pregunta, el pedido o una opinión queda guardado 24 h si salís sin querer",
+    "En el modo tester, la IA del resumen se elige tocando su nombre en el resumen"
   ]
 }
