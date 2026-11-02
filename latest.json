@@ -1,9 +1,9 @@
 {
-  "build": 84,
-  "version": "0.1.84",
+  "build": 85,
+  "version": "0.1.85",
   "novedades": [
-    "El resumen muestra solo tareas que alguien dijo de verdad, con su dueño o «Sin responsable»",
-    "En reuniones largas, tu IA ya no se pierde el final de cada parte",
-    "En charlas y clases, las ideas del que habla ya no aparecen como tareas tuyas"
+    "En reuniones, tu IA encuentra más tareas dichas al pasar, con su dueño",
+    "En charlas largas, el resumen trae el índice por partes y llega hasta el final",
+    "La idea central y la conclusión de una charla ya no se pierden"
   ]
 }
