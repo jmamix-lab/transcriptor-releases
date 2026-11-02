@@ -1,9 +1,9 @@
 {
-  "build": 83,
-  "version": "0.1.83",
+  "build": 84,
+  "version": "0.1.84",
   "novedades": [
-    "Atrás y las pestañas vuelven a lo que estabas mirando (Ajustes se abre encima)",
-    "Lo que escribís en una pregunta, el pedido o una opinión queda guardado 24 h si salís sin querer",
-    "En el modo tester, la IA del resumen se elige tocando su nombre en el resumen"
+    "El resumen muestra solo tareas que alguien dijo de verdad, con su dueño o «Sin responsable»",
+    "En reuniones largas, tu IA ya no se pierde el final de cada parte",
+    "En charlas y clases, las ideas del que habla ya no aparecen como tareas tuyas"
   ]
 }
