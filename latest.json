@@ -1,9 +1,9 @@
 {
-  "build": 85,
-  "version": "0.1.85",
+  "build": 86,
+  "version": "0.1.86",
   "novedades": [
-    "En reuniones, tu IA encuentra más tareas dichas al pasar, con su dueño",
-    "En charlas largas, el resumen trae el índice por partes y llega hasta el final",
-    "La idea central y la conclusión de una charla ya no se pierden"
+    "El resumen de una reunión cuenta lo que pasó, con nombres, y las tareas aparte",
+    "Compartir el resumen como PDF, con un formato prolijo para mandar o imprimir",
+    "La ⭐ destaca el párrafo, los títulos no quedan cortados y lo que escribís no salta"
   ]
 }
