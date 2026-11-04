@@ -1,9 +1,9 @@
 {
-  "build": 86,
-  "version": "0.1.86",
+  "build": 87,
+  "version": "0.1.87",
   "novedades": [
-    "El resumen de una reunión cuenta lo que pasó, con nombres, y las tareas aparte",
-    "Compartir el resumen como PDF, con un formato prolijo para mandar o imprimir",
-    "La ⭐ destaca el párrafo, los títulos no quedan cortados y lo que escribís no salta"
+    "Bloqueá la app con tu huella o el PIN del teléfono (⚙ Ajustes → Privacidad)",
+    "Grabá desde un atajo o un widget en la pantalla de inicio",
+    "Copiar y compartir sin muletillas y, si querés, como texto corrido"
   ]
 }
