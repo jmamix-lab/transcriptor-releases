@@ -1,9 +1,9 @@
 {
-  "build": 87,
-  "version": "0.1.87",
+  "build": 88,
+  "version": "0.1.88",
   "novedades": [
-    "Bloqueá la app con tu huella o el PIN del teléfono (⚙ Ajustes → Privacidad)",
-    "Grabá desde un atajo o un widget en la pantalla de inicio",
-    "Copiar y compartir sin muletillas y, si querés, como texto corrido"
+    "El audio de una reunión larga ahora entra en WhatsApp, y podés guardar la transcripción, el resumen o el audio en el teléfono desde Compartir",
+    "Unir dos voces ya no cambia los párrafos que elegiste a mano, y si la persona ya tiene nombre te pregunta antes",
+    "Compartir el audio espera a que esté pronto, y los avisos de abajo ya no vuelven a aparecer"
   ]
 }
