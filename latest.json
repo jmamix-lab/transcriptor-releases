@@ -1,9 +1,9 @@
 {
-  "build": 88,
-  "version": "0.1.88",
+  "build": 89,
+  "version": "0.1.89",
   "novedades": [
-    "El audio de una reunión larga ahora entra en WhatsApp, y podés guardar la transcripción, el resumen o el audio en el teléfono desde Compartir",
-    "Unir dos voces ya no cambia los párrafos que elegiste a mano, y si la persona ya tiene nombre te pregunta antes",
-    "Compartir el audio espera a que esté pronto, y los avisos de abajo ya no vuelven a aparecer"
+    "Arriba de una grabación aparece ↶ Deshacer: vuelve atrás hasta 10 cambios (tocalo o mantenelo apretado para ver la lista)",
+    "Podés borrar un párrafo desde su ⋯ sin perder el audio, y entre párrafos se ve cuánto audio quedó sin texto",
+    "El resumen de una reunión encuentra mejor quién hace cada tarea y cuándo (hoy, mañana), y saca tareas que no lo son"
   ]
 }
