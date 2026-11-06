@@ -1,9 +1,9 @@
 {
-  "build": 89,
-  "version": "0.1.89",
+  "build": 90,
+  "version": "0.1.90",
   "novedades": [
-    "Arriba de una grabación aparece ↶ Deshacer: vuelve atrás hasta 10 cambios (tocalo o mantenelo apretado para ver la lista)",
-    "Podés borrar un párrafo desde su ⋯ sin perder el audio, y entre párrafos se ve cuánto audio quedó sin texto",
-    "El resumen de una reunión encuentra mejor quién hace cada tarea y cuándo (hoy, mañana), y saca tareas que no lo son"
+    "Las tareas de una reunión salen más limpias, con su dueño y con la fecha real en lugar de «mañana» o «el viernes»",
+    "El resumen en PDF te pregunta para quién es, y en una charla trae las preguntas del público con lo que se respondió",
+    "Tus palabras y los nombres de la reunión salen mejor escritos: al detener, tu IA vuelve a escuchar esos pedazos"
   ]
 }
