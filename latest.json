@@ -1,9 +1,9 @@
 {
-  "build": 91,
-  "version": "0.1.91",
+  "build": 92,
+  "version": "0.1.92",
   "novedades": [
-    "Traducí al español lo que se habló en inglés, en tu teléfono y sin conexión (⋯ del párrafo)",
-    "Lo que marcás con ⭐ aparece siempre al final del resumen, y ⭐ Marcar está en la notificación mientras grabás",
-    "La lista abre con lo último que usaste arriba; el tema claro u oscuro se elige en ⚙ Ajustes → Apariencia"
+    "Traducir del inglés viene apagado: se prende en ⚙ Ajustes → «Traducir del inglés»",
+    "El resumen sale en español aunque en la reunión se hable en inglés",
+    "Preguntar a tu IA encuentra mejor lo dicho con otras palabras o en inglés"
   ]
 }
