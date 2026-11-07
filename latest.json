@@ -1,9 +1,9 @@
 {
-  "build": 90,
-  "version": "0.1.90",
+  "build": 91,
+  "version": "0.1.91",
   "novedades": [
-    "Las tareas de una reunión salen más limpias, con su dueño y con la fecha real en lugar de «mañana» o «el viernes»",
-    "El resumen en PDF te pregunta para quién es, y en una charla trae las preguntas del público con lo que se respondió",
-    "Tus palabras y los nombres de la reunión salen mejor escritos: al detener, tu IA vuelve a escuchar esos pedazos"
+    "Traducí al español lo que se habló en inglés, en tu teléfono y sin conexión (⋯ del párrafo)",
+    "Lo que marcás con ⭐ aparece siempre al final del resumen, y ⭐ Marcar está en la notificación mientras grabás",
+    "La lista abre con lo último que usaste arriba; el tema claro u oscuro se elige en ⚙ Ajustes → Apariencia"
   ]
 }
