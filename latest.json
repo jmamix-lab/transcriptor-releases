@@ -1,8 +1,9 @@
 {
-  "build": 93,
-  "version": "0.1.93",
+  "build": 94,
+  "version": "0.1.94",
   "novedades": [
-    "En el resumen, lo que se dijo en inglés queda como se dijo, sin traducirlo",
-    "Para entender un párrafo en inglés: ⋯ → «Traducir al español» (se prende en ⚙ Ajustes)"
+    "La app ahora habla en español neutro y «Preguntar» pasó a llamarse «Consultar»",
+    "Traducir al español: puedes esperar al Wi‑Fi para bajar la IA y ocultar una traducción",
+    "Al mandar una grabación a la papelera se borran solo sus avisos"
   ]
 }
