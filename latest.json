@@ -1,9 +1,8 @@
 {
-  "build": 92,
-  "version": "0.1.92",
+  "build": 93,
+  "version": "0.1.93",
   "novedades": [
-    "Traducir del inglés viene apagado: se prende en ⚙ Ajustes → «Traducir del inglés»",
-    "El resumen sale en español aunque en la reunión se hable en inglés",
-    "Preguntar a tu IA encuentra mejor lo dicho con otras palabras o en inglés"
+    "En el resumen, lo que se dijo en inglés queda como se dijo, sin traducirlo",
+    "Para entender un párrafo en inglés: ⋯ → «Traducir al español» (se prende en ⚙ Ajustes)"
   ]
 }
