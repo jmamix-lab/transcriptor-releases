@@ -1,9 +1,9 @@
 {
-  "build": 94,
-  "version": "0.1.94",
+  "build": 95,
+  "version": "0.1.95",
   "novedades": [
-    "La app ahora habla en español neutro y «Preguntar» pasó a llamarse «Consultar»",
-    "Traducir al español: puedes esperar al Wi‑Fi para bajar la IA y ocultar una traducción",
-    "Al mandar una grabación a la papelera se borran solo sus avisos"
+    "Volver a transcribir ya no se frena a mitad en audios de varias horas",
+    "Si se pausa, dice cuánto quedó hecho y «Seguir» continúa desde ahí",
+    "En pantallas bajas, al grabar siempre ves Detener, Marcar, Nota y Adjuntar"
   ]
 }
