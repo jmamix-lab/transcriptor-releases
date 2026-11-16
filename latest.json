@@ -1,9 +1,9 @@
 {
-  "build": 95,
-  "version": "0.1.95",
+  "build": 96,
+  "version": "0.1.96",
   "novedades": [
-    "Volver a transcribir ya no se frena a mitad en audios de varias horas",
-    "Si se pausa, dice cuánto quedó hecho y «Seguir» continúa desde ahí",
-    "En pantallas bajas, al grabar siempre ves Detener, Marcar, Nota y Adjuntar"
+    "Diseño nuevo: Inicio con un solo botón para grabar y la Biblioteca con Grabaciones, Series, Tareas y Personas",
+    "Busca o consulta a tu IA desde cualquier pantalla, en una grabación, una serie o toda la Biblioteca",
+    "Al grabar: nombre y serie arriba, ⭐ para marcar, «Calidad N %» y una hoja para pausar o cortar"
   ]
 }
