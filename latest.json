@@ -1,9 +1,9 @@
 {
-  "build": 96,
-  "version": "0.1.96",
+  "build": 97,
+  "version": "0.1.97",
   "novedades": [
-    "Diseño nuevo: Inicio con un solo botón para grabar y la Biblioteca con Grabaciones, Series, Tareas y Personas",
-    "Busca o consulta a tu IA desde cualquier pantalla, en una grabación, una serie o toda la Biblioteca",
-    "Al grabar: nombre y serie arriba, ⭐ para marcar, «Calidad N %» y una hoja para pausar o cortar"
+    "Grabando y la grabación terminada rediseñadas: hora arriba de cada párrafo, marca «!» donde revisar y «Pedido para tu IA»",
+    "Volver a transcribir ya no se pausa en el 99 % con grabaciones largas",
+    "Las hojas suben desde abajo; el recordatorio avisa una sola vez"
   ]
 }
