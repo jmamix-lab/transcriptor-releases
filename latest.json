@@ -1,9 +1,9 @@
 {
-  "build": 97,
-  "version": "0.1.97",
+  "build": 98,
+  "version": "0.1.98",
   "novedades": [
-    "Grabando y la grabación terminada rediseñadas: hora arriba de cada párrafo, marca «!» donde revisar y «Pedido para tu IA»",
-    "Volver a transcribir ya no se pausa en el 99 % con grabaciones largas",
-    "Las hojas suben desde abajo; el recordatorio avisa una sola vez"
+    "Modo lectura: lee la transcripción limpia y copia el texto que quieras",
+    "Al editar en Grabando se ve qué párrafo cambias; la estrellita vuelve a la grabación",
+    "Nuevo ícono y avisos en color cobre"
   ]
 }
