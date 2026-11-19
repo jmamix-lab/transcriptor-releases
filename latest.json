@@ -1,9 +1,9 @@
 {
-  "build": 98,
-  "version": "0.1.98",
+  "build": 99,
+  "version": "0.1.99",
   "novedades": [
-    "Modo lectura: lee la transcripción limpia y copia el texto que quieras",
-    "Al editar en Grabando se ve qué párrafo cambias; la estrellita vuelve a la grabación",
-    "Nuevo ícono y avisos en color cobre"
+    "Tamaño de letra para leer más cómodo y tus reuniones del día en Inicio",
+    "Avisa si hay mucho ruido, y si no se escuchó a nadie no guarda la grabación",
+    "Tu IA cuida el calor del teléfono y avisa cuando termina su trabajo"
   ]
 }
