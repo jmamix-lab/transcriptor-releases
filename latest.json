@@ -1,9 +1,9 @@
 {
-  "build": 100,
-  "version": "0.1.100",
+  "build": 101,
+  "version": "0.1.101",
   "novedades": [
-    "Notas que flotan mientras escribes, con recordatorio a un toque, y se apilan si hay varias juntas",
-    "Fotos y documentos como Polaroid dentro de la transcripción",
-    "Primera instalación más clara y la app siempre en modo claro"
+    "Compartir en una sola hoja: eliges qué va y en qué formato, también el audio en MP3",
+    "Descartar una grabación al detenerla, y Volver a transcribir se acepta solo con Deshacer",
+    "Restaurar una copia suma sin pisar: une series y personas del mismo nombre"
   ]
 }
