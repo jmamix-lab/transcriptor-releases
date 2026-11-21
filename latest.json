@@ -1,9 +1,9 @@
 {
-  "build": 99,
-  "version": "0.1.99",
+  "build": 100,
+  "version": "0.1.100",
   "novedades": [
-    "Tamaño de letra para leer más cómodo y tus reuniones del día en Inicio",
-    "Avisa si hay mucho ruido, y si no se escuchó a nadie no guarda la grabación",
-    "Tu IA cuida el calor del teléfono y avisa cuando termina su trabajo"
+    "Notas que flotan mientras escribes, con recordatorio a un toque, y se apilan si hay varias juntas",
+    "Fotos y documentos como Polaroid dentro de la transcripción",
+    "Primera instalación más clara y la app siempre en modo claro"
   ]
 }
