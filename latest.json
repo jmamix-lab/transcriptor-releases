@@ -1,9 +1,9 @@
 {
-  "build": 101,
-  "version": "0.1.101",
+  "build": 102,
+  "version": "0.1.102",
   "novedades": [
-    "Compartir en una sola hoja: eliges qué va y en qué formato, también el audio en MP3",
-    "Descartar una grabación al detenerla, y Volver a transcribir se acepta solo con Deshacer",
-    "Restaurar una copia suma sin pisar: une series y personas del mismo nombre"
+    "Los trabajos largos siguen aunque el teléfono cierre la app, y avisan si algo quedó a medias",
+    "El resumen en PDF con el diseño nuevo en cobre, y compartir varias grabaciones juntas",
+    "Menos frases en inglés que nadie dijo en las reuniones largas en español"
   ]
 }
