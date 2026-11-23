@@ -1,9 +1,9 @@
 {
-  "build": 102,
-  "version": "0.1.102",
+  "build": 103,
+  "version": "0.1.103",
   "novedades": [
-    "Los trabajos largos siguen aunque el teléfono cierre la app, y avisan si algo quedó a medias",
-    "El resumen en PDF con el diseño nuevo en cobre, y compartir varias grabaciones juntas",
-    "Menos frases en inglés que nadie dijo en las reuniones largas en español"
+    "En la versión de Google Play, la app avisa cuando hay una nueva y se actualiza sin salir",
+    "La tarjeta «Hoy» de Inicio nunca queda en blanco y ofrece traer las reuniones de tu calendario",
+    "Copiar en el modo lectura deja una línea entre párrafos, y los avisos ya no se amontonan en pantallas chicas"
   ]
 }
