@@ -1,9 +1,9 @@
 {
-  "build": 103,
-  "version": "0.1.103",
+  "build": 104,
+  "version": "0.1.104",
   "novedades": [
-    "En la versión de Google Play, la app avisa cuando hay una nueva y se actualiza sin salir",
-    "La tarjeta «Hoy» de Inicio nunca queda en blanco y ofrece traer las reuniones de tu calendario",
-    "Copiar en el modo lectura deja una línea entre párrafos, y los avisos ya no se amontonan en pantallas chicas"
+    "Compartir más ordenado: el documento y el audio cada uno con su formato, y cuatro botones claros abajo",
+    "Nuevo: exportar a Word, y el tamaño de hoja (A4 u Oficio) ahora está en Ajustes › Documentos",
+    "Guardar ya no arma .zip, y lo que está listo sale enseguida mientras el audio se prepara"
   ]
 }
