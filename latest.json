@@ -1,9 +1,9 @@
 {
-  "build": 106,
-  "version": "0.1.106",
+  "build": 107,
+  "version": "0.1.107",
   "novedades": [
-    "Ajustes más corto: grupos con buscador arriba; la tarjeta «Hoy» oculta también las reuniones del día siguiente y mira hasta dos semanas",
-    "El reproductor muestra la onda de la grabación; al editar un párrafo, el reproductor se aparta del teclado",
-    "Copiar avisa lo que queda afuera, y tocar una reunión de «Hoy» abre «Grabar «nombre»»"
+    "Las reuniones canceladas o rechazadas se ven tachadas en «Hoy», y una reunión que está en dos calendarios aparece una sola vez",
+    "En Biblioteca › Personas, el ⋮ permite olvidar todas las voces guardadas",
+    "Ajustes muestra la fecha de la última copia de seguridad"
   ]
 }
