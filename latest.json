@@ -1,9 +1,9 @@
 {
-  "build": 105,
-  "version": "0.1.105",
+  "build": 106,
+  "version": "0.1.106",
   "novedades": [
-    "Nuevo: desliza de costado para pasar entre la Biblioteca y Grabar; cada lado recuerda dónde quedaste",
-    "«Grabar» siempre arriba en la Biblioteca (mientras grabas, muestra el tiempo) y el nombre en grande debajo; las pestañas se cambian tocándolas",
-    "Mejor transcripción de los saludos cortos y de las frases que quedaban sueltas"
+    "Ajustes más corto: grupos con buscador arriba; la tarjeta «Hoy» oculta también las reuniones del día siguiente y mira hasta dos semanas",
+    "El reproductor muestra la onda de la grabación; al editar un párrafo, el reproductor se aparta del teclado",
+    "Copiar avisa lo que queda afuera, y tocar una reunión de «Hoy» abre «Grabar «nombre»»"
   ]
 }
