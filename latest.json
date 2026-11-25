@@ -1,9 +1,9 @@
 {
-  "build": 107,
-  "version": "0.1.107",
+  "build": 108,
+  "version": "0.1.108",
   "novedades": [
-    "Las reuniones canceladas o rechazadas se ven tachadas en «Hoy», y una reunión que está en dos calendarios aparece una sola vez",
-    "En Biblioteca › Personas, el ⋮ permite olvidar todas las voces guardadas",
-    "Ajustes muestra la fecha de la última copia de seguridad"
+    "Al buscar una palabra, la barra de la derecha muestra dónde se concentra y avisa si aparece en toda la grabación",
+    "Un MP3 grande enviado por WhatsApp va comprimido en .zip; las demás apps reciben el archivo tal cual",
+    "Deslizar entre la Biblioteca y Grabar es más fluido, y la onda del reproductor se ve completa en reuniones largas"
   ]
 }
