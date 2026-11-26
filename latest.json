@@ -1,9 +1,9 @@
 {
-  "build": 108,
-  "version": "0.1.108",
+  "build": 109,
+  "version": "0.1.109",
   "novedades": [
-    "Al buscar una palabra, la barra de la derecha muestra dónde se concentra y avisa si aparece en toda la grabación",
-    "Un MP3 grande enviado por WhatsApp va comprimido en .zip; las demás apps reciben el archivo tal cual",
-    "Deslizar entre la Biblioteca y Grabar es más fluido, y la onda del reproductor se ve completa en reuniones largas"
+    "La grabación deja más lugar para el texto: botones flotantes abajo y, al tocar un párrafo, sus opciones a mano",
+    "Al escuchar, una estela marca lo que va sonando, y la onda del reproductor se acerca o se aleja con el dedo",
+    "Al terminar de grabar, atrás lleva a la serie o a la lista; la frase de Inicio cuenta solo lo más útil"
   ]
 }
