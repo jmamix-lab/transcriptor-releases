@@ -1,9 +1,9 @@
 {
-  "build": 109,
-  "version": "0.1.109",
+  "build": 110,
+  "version": "0.1.110",
   "novedades": [
-    "La grabación deja más lugar para el texto: botones flotantes abajo y, al tocar un párrafo, sus opciones a mano",
-    "Al escuchar, una estela marca lo que va sonando, y la onda del reproductor se acerca o se aleja con el dedo",
-    "Al terminar de grabar, atrás lleva a la serie o a la lista; la frase de Inicio cuenta solo lo más útil"
+    "Borrar una persona ahora pregunta antes, deja deshacer y la guarda 30 días en la Papelera",
+    "En el Resumen eliges para quién es; en Tareas mandas una tarea por WhatsApp; Ajustes › Privacidad › Tu uso muestra lo que ganaste cada mes",
+    "Escanear documentos de varias páginas y leer el texto de las fotos; botones de la grabación más calmos"
   ]
 }
