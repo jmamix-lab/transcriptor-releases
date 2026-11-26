@@ -1,9 +1,9 @@
 {
-  "build": 110,
-  "version": "0.1.110",
+  "build": 111,
+  "version": "0.1.111",
   "novedades": [
-    "Borrar una persona ahora pregunta antes, deja deshacer y la guarda 30 días en la Papelera",
-    "En el Resumen eliges para quién es; en Tareas mandas una tarea por WhatsApp; Ajustes › Privacidad › Tu uso muestra lo que ganaste cada mes",
-    "Escanear documentos de varias páginas y leer el texto de las fotos; botones de la grabación más calmos"
+    "Tocar la calidad de una grabación muestra qué la sube; «Para alguien de afuera» oculta lo que falta y lo hecho",
+    "Recortar el principio y el final de una grabación (el texto, el resumen y Consultar usan solo lo que queda)",
+    "«Grabar» y «Biblioteca» pegadas al borde se tocan o se arrastran; aviso de ruido más preciso"
   ]
 }
