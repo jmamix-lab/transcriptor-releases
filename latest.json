@@ -1,9 +1,9 @@
 {
-  "build": 111,
-  "version": "0.1.111",
+  "build": 112,
+  "version": "0.1.112",
   "novedades": [
-    "Tocar la calidad de una grabación muestra qué la sube; «Para alguien de afuera» oculta lo que falta y lo hecho",
-    "Recortar el principio y el final de una grabación (el texto, el resumen y Consultar usan solo lo que queda)",
-    "«Grabar» y «Biblioteca» pegadas al borde se tocan o se arrastran; aviso de ruido más preciso"
+    "Ordena tus grabaciones con la flecha y busca más rápido",
+    "Widget «Transcriptor»: agrándalo para ver la reunión de ahora y lo que está listo",
+    "Inicio te sugiere qué probar, como una nota o una foto en el minuto justo"
   ]
 }
