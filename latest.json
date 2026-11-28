@@ -1,9 +1,9 @@
 {
-  "build": 112,
-  "version": "0.1.112",
+  "build": 113,
+  "version": "0.1.113",
   "novedades": [
-    "Ordena tus grabaciones con la flecha y busca más rápido",
-    "Widget «Transcriptor»: agrándalo para ver la reunión de ahora y lo que está listo",
-    "Inicio te sugiere qué probar, como una nota o una foto en el minuto justo"
+    "Editar más simple: deshacer y rehacer, sin marcas, y cada grabación vuelve donde la dejaste",
+    "Un solo aviso cuando tu IA termina, y el aviso de reunión con «En 5 min»",
+    "La tira del párrafo se desliza como un tren y compartir el audio largo muestra cuánto falta"
   ]
 }
